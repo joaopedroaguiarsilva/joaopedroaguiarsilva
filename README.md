@@ -1,17 +1,30 @@
-# Sobre mim
+# 🧑‍💻 Portfólio de João Pedro Aguiar Silva
 
-Bacharelando em Sistemas de Informações no IFMG
-<!--
-**joaopedroaguiarsilva/joaopedroaguiarsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 Sobre Mim
+Olá! Meu nome é **João Pedro Aguiar Silva**, tenho 19 anos e atualmente estou no 2º período do curso de **Sistemas de Informação** no IFMG. 
+Sou apaixonado por tecnologia e sempre em busca de aprender novas habilidades.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades
+- HTML
+- CSS
+- JavaScript
+- Java (estudando)
+- Banco de Dados MySQL (estudando)
+- SAP (estudando)
+- BTP dentro do SAP (estudando)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experiência Profissional
+Trabalho voluntário dentro da faculdade, ensinando informática básica para idosos da região.
+
+
+
+## 🎓 Educação
+- **Sistemas de Informação** - IFMG Sabará (2024 - Presente) Conclusão(2027)
+
+## 📫 Contato
+- **Email:** joaopedroaguiarsilva8@gmail.com
+- **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/joao-pedro-aguiar/)
+
+---
+
+Obrigado por visitar meu portfólio! Estou sempre aberto a novas oportunidades e colaborações. 🚀
