@@ -1,7 +1,7 @@
 # 🧑‍💻 Portfólio de João Pedro Aguiar Silva
 
 ## 👤 Sobre Mim
-Olá! Meu nome é **João Pedro Aguiar Silva**, tenho 19 anos e atualmente estou no 2º período do curso de **Sistemas de Informação** no IFMG. 
+Olá! Meu nome é **João Pedro Aguiar Silva**, tenho 19 anos e atualmente estou no 4º período do curso de **Sistemas de Informação** no IFMG. 
 Sou apaixonado por tecnologia e sempre em busca de aprender novas habilidades.
 
 ## 🛠️ Habilidades
