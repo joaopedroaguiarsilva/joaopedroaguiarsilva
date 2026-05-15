@@ -47,15 +47,6 @@ Tenho background complementar em desenvolvimento web (HTML, CSS, JS) e Java, o q
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaopedroaguiarsilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroaguiarsilva&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 
