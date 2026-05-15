@@ -58,6 +58,4 @@ Tenho background complementar em desenvolvimento web (HTML, CSS, JS) e Java, o q
 
 ---
 
-<p align="center">
-  <sub>Aberto a trocar ideia sobre SAP, arquitetura enterprise ou qualquer coisa interessante.</sub>
-</p>
+
