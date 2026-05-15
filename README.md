@@ -20,7 +20,7 @@
 
 ## Sobre mim
 
-Tenho 20 anos, sou de Belo Horizonte e trabalho como desenvolvedor SAP na **Nic-Labs**. No dia a dia lido com ABAP moderno, RAP, CAP e CDS Views — construindo soluções enterprise no SAP BTP.
+Tenho 20 anos, sou de Belo Horizonte e trabalho como desenvolvedor SAP. No dia a dia lido com ABAP moderno, RAP, CAP e CDS Views — construindo soluções enterprise no SAP BTP.
 
 Curso Sistemas de Informação no IFMG Sabará (previsão de conclusão em 2027). Tenho interesse crescente em arquitetura de aplicações cloud e integrações entre sistemas SAP.
 
