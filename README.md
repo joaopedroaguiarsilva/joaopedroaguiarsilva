@@ -1,157 +1,63 @@
-<!-- ===================================================== -->
-
-<!--
-🎨 DICA:
-Crie um banner no Canva com:
-- Seu nome
-- "SAP Developer"
-- Elementos de SAP BTP, código e arquitetura
-- Visual dark moderno
-
-Depois substitua a imagem abaixo.
--->
+<h1 align="center">João Pedro Aguiar Silva</h1>
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x320.png?text=JOAO+PEDRO+AGUIAR+SILVA+-+SAP+DEVELOPER" />
+  SAP Developer &nbsp;·&nbsp; ABAP &nbsp;·&nbsp; SAP BTP &nbsp;·&nbsp; CAP &nbsp;·&nbsp; RAP &nbsp;·&nbsp; CDS
 </p>
-
-<h1 align="center">👨‍💻 João Pedro Aguiar Silva</h1>
-
-<h3 align="center">
-SAP Developer • ABAP • SAP BTP • CAP • RAP • CDS
-</h3>
 
 <p align="center">
-Desenvolvedor focado em ecossistema SAP, arquitetura moderna e soluções enterprise.
+  <a href="mailto:joaopedroaguiarsilva8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/joao-pedro-aguiar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/jp_aguiarsilva/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 🚀 Sobre Mim
+## Sobre mim
 
-Olá! Meu nome é **João Pedro Aguiar Silva**, tenho 20 anos e atualmente curso **Sistemas de Informação no IFMG**.
+Tenho 20 anos, sou de Belo Horizonte e trabalho como desenvolvedor SAP na **Nic-Labs**. No dia a dia lido com ABAP moderno, RAP, CAP e CDS Views — construindo soluções enterprise no SAP BTP.
 
-Atuo profissionalmente como **Desenvolvedor de Software com foco em SAP**, trabalhando principalmente com tecnologias modernas do ecossistema SAP e desenvolvimento enterprise.
+Curso Sistemas de Informação no IFMG Sabará (previsão de conclusão em 2027). Tenho interesse crescente em arquitetura de aplicações cloud e integrações entre sistemas SAP.
 
-Tenho experiência prática e interesse em:
-
-- Desenvolvimento ABAP moderno
-- SAP BTP (Business Technology Platform)
-- CAP (Cloud Application Programming Model)
-- RAP (RESTful ABAP Programming Model)
-- CDS Views
-- Arquitetura de Software
-- APIs e serviços OData
-- Desenvolvimento Full Stack
-- Soluções Cloud Enterprise
-
-Também possuo conhecimentos em tecnologias complementares como:
-
-- HTML
-- CSS
-- JavaScript
-- Java
-- Banco de Dados MySQL
-
-Sou apaixonado por tecnologia, aprendizado contínuo e construção de soluções robustas para ambientes corporativos.
+Tenho background complementar em desenvolvimento web (HTML, CSS, JS) e Java, o que ajuda quando preciso entender o problema por um ângulo diferente.
 
 ---
 
-# 💼 Experiência Profissional
+## Tecnologias
 
-## 💻 Desenvolvedor SAP
+**SAP & Enterprise**
 
-Atuação prática com desenvolvimento e evolução de aplicações utilizando tecnologias modernas do ecossistema SAP.
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0A6ED1?style=flat-square)
+![ABAP](https://img.shields.io/badge/ABAP-0F5BA7?style=flat-square)
+![CAP](https://img.shields.io/badge/CAP-111827?style=flat-square)
+![RAP](https://img.shields.io/badge/RAP-2563EB?style=flat-square)
+![CDS Views](https://img.shields.io/badge/CDS%20Views-1E293B?style=flat-square)
 
-### 🔹 Principais experiências:
-- Desenvolvimento utilizando ABAP moderno
-- Criação e manutenção de CDS Views
-- Desenvolvimento RAP
-- Aplicações CAP no SAP BTP
-- Consumo e exposição de APIs/OData
-- Desenvolvimento de soluções cloud
-- Integrações entre sistemas SAP
-- Arquitetura de aplicações enterprise
+**Web & Backend**
 
----
-
-# 🧰 Toolbox
-
-## ☁️ SAP & Enterprise
-
-<p>
-<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-<img src="https://img.shields.io/badge/SAP%20BTP-0A6ED1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ABAP-0F5BA7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CAP-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAP-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CDS%20Views-1E293B?style=for-the-badge"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-## 🌐 Web Development
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
----
-
-## 🗄️ Banco de Dados
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-# 📚 Formação
-
-🎓 **Sistemas de Informação — IFMG**  
-📍 IFMG Sabará  
-📅 2024 - Atualmente  
-🎯 Conclusão prevista: 2027
-
----
-
-# 📊 GitHub Analytics
+## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 📫 Contato
-
-<p align="center">
-
-<a href="mailto:joaopedroaguiarsilva8@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/joao-pedro-aguiar/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaopedroaguiarsilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroaguiarsilva&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-🚀 Sempre buscando evoluir como desenvolvedor e construir soluções modernas no ecossistema SAP.
+  <sub>Aberto a trocar ideia sobre SAP, arquitetura enterprise ou qualquer coisa interessante.</sub>
 </p>
